@@ -1,0 +1,30 @@
+Name: Naeem
+ID: 2012020105
+Section: C
+Batch: 53
+Department: CSE
+
+Name: Rashed 
+ID: 2012020123
+Section: C
+Batch: 53
+Department: CSE
+
+Name: Raisa
+ID: 2012020140
+Section: C
+Batch: 53
+Department: CSE
+
+Name: Sabiha
+ID: 2012020146
+Section: C
+Batch: 53
+Department: CSE
+
+Name: Rashed
+ID: 123
+Section: C
+Batch: 53
+Department: CSE
+
