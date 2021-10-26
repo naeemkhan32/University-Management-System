@@ -1,0 +1,12 @@
+Name: Arif Ahmad
+Occupation: Assistant Professor
+Number: 1700000
+Email: arif@lus.ac.bd
+Department: CSE
+
+Name: Adil Ahmed
+Occupation: Lecturer
+Number: 16000
+Email: adil@lus.ac.bd
+Department: CSE
+
