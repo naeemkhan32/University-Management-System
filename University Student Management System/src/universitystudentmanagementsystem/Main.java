@@ -201,7 +201,28 @@ public class Main {
                                         break;
                                 }
                             case 2:
-                                break;
+                                System.out.println("1. Add");
+                                System.out.println("2. Show");
+                                System.out.println("3. Exit");
+
+                                System.out.println("Choose any option: ");
+
+                                c = in.nextInt();
+                                AcademicProgram p = new AcademicProgram();
+                                switch (c) {
+                                    case 1:
+                                        p.graduateAdd();
+                                        break;
+                                    case 2:
+                                        p.graduateRead();
+                                        break;
+                                    case 3:
+                                        Main main = new Main();
+                                        main.main();
+                                        break;
+                                }
+                                    break;
+
                             case 3:
                                 Main main =new Main();
                                 main.main();
