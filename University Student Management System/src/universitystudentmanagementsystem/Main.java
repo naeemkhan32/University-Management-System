@@ -2,7 +2,7 @@ package universitystudentmanagementsystem;
 import java.io.IOException;
 import java.util.Scanner;
 public class Main {
-    void main()
+    void project ()
     {
         int c;
         do{
@@ -41,7 +41,7 @@ public class Main {
                                 break;
                             case 3:
                                 Main main =new Main();
-                                main.main();
+                                main.project ();
                                 break;
                         }
                         break;
@@ -67,7 +67,7 @@ public class Main {
                                 break;
                             case 3:
                                 Main main=new Main();
-                                main.main();
+                                main.project();
                                 break;
 
                         }
@@ -150,7 +150,7 @@ public class Main {
                                             break;
                                         case 14:
                                             Main main=new Main();
-                                            main.main();
+                                            main.project();
                                             break;
 
                                     }
@@ -162,7 +162,7 @@ public class Main {
                                 break;
                             case 4:
                                 Main main=new Main();
-                                main.main();
+                                main.project();
                                 break;
 
                         }
@@ -197,7 +197,7 @@ public class Main {
                                         break;
                                     case 3:
                                         Main main = new Main();
-                                        main.main();
+                                        main.project();
                                         break;
                                 }
                             case 2:
@@ -218,14 +218,14 @@ public class Main {
                                         break;
                                     case 3:
                                         Main main = new Main();
-                                        main.main();
+                                        main.project();
                                         break;
                                 }
                                     break;
 
                             case 3:
                                 Main main =new Main();
-                                main.main();
+                                main.project();
                                 break;
                         }
                     }while (c!=0);
@@ -247,7 +247,7 @@ public class Main {
                                 break;
                             case 2:
                                 Main main = new Main();
-                                main.main();
+                                main.project();
                                 break;
                         }
                     }while (c!=0);
@@ -299,7 +299,7 @@ public class Main {
                                             break;
                                         case 7:
                                             Main main=new Main();
-                                            main.main();
+                                            main.project();
                                             break;
 
                                     }
@@ -308,7 +308,7 @@ public class Main {
                                 break;
                             case 3:
                                 Main main=new Main();
-                                main.main();
+                                main.project();
                                 break;
 
 
@@ -335,7 +335,7 @@ public class Main {
     public static void main(String[] args) throws IOException
     {
         Main m = new Main();
-        m.main();
+        m.project();
 
     }
 
